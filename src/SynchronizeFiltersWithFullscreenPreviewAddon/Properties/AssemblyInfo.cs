@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SynchronizeFiltersWithFullscreenPreview")]
+[assembly: AssemblyProduct("SynchronizeFiltersWithFullscreenPreviewAddon")]
 [assembly: AssemblyCopyright("Copyright ©  2019 Daniel Lutz")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
