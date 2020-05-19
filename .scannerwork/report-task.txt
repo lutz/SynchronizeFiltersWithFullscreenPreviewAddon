@@ -1,0 +1,7 @@
+organization=lutz
+projectKey=lutz_SynchronizeFiltersWithFullscreenPreviewAddon
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8111
+dashboardUrl=https://sonarcloud.io/dashboard?id=lutz_SynchronizeFiltersWithFullscreenPreviewAddon
+ceTaskId=AXIsH52yZVBEjGI83mer
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXIsH52yZVBEjGI83mer
